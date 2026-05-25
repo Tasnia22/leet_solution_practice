@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tasnia22/leet_solution_practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0027-remove-element](https://github.com/Tasnia22/leet_solution_practice/tree/main/0027-remove-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tasnia22/leet_solution_practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Tasnia22/leet_solution_practice/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
