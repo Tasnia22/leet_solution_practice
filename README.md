@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tasnia22/leet_solution_practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Tasnia22/leet_solution_practice/tree/main/0013-roman-to-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -31,5 +32,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tasnia22/leet_solution_practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/Tasnia22/leet_solution_practice/tree/main/0027-remove-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tasnia22/leet_solution_practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
